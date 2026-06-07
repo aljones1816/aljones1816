@@ -11,3 +11,17 @@ I'm also an enthusiastic adopter of AI-assisted software engineering. I'm intere
 Before moving into software and data engineering, I completed graduate research in computational paleoclimate science. That background still influences how I think about data, systems, and complex problem solving today.
 
 Outside of work you'll usually find me hiking, camping, traveling, building side projects, or experimenting with new technologies.
+
+## Current Interests
+
+- Enterprise data platform architecture
+- Cloud-native platform modernization
+- Snowflake, Airflow, and AWS
+- AI-assisted software engineering
+- Developer productivity and engineering workflows
+- Data reliability and observability
+
+## Recent Sidequests
+[Sojourness](https://www.sojourness.com) - A travel booking platform for small group trips.
+
+[SetLift](https://apps.apple.com/us/app/setlift/id6760949297) - A small, free iOS native workout tracking app.
