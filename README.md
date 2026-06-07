@@ -2,26 +2,8 @@
 
 I'm a data platform engineer and technical lead based in Maine.
 
-Most of my work focuses on designing and modernizing enterprise data platforms, helping organizations build reliable, scalable systems that turn business needs into actionable data products. I spend a lot of my time working at the intersection of platform architecture, cloud infrastructure, data engineering, and technical strategy.
+I design and modernize enterprise data platforms, with a focus on cloud-native infrastructure, distributed processing systems, developer productivity, and reliable data operations.
 
-Professionally, I've led modernization efforts involving AWS, Snowflake, Airflow, Python, and containerized runtime platforms, with a particular interest in reliability, operational simplicity, and developer productivity.
+My recent work has focused on platform modernization, technical strategy, and AI-assisted engineering workflows that help teams deliver complex systems faster and more safely.
 
-I'm also an enthusiastic adopter of AI-assisted software engineering. I'm interested in how AI can improve architecture design, testing, code review, documentation, and delivery workflows when paired with strong engineering practices and clear operational guardrails.
-
-Before moving into software and data engineering, I completed graduate research in computational paleoclimate science. That background still influences how I think about data, systems, and complex problem solving today.
-
-Outside of work you'll usually find me hiking, camping, traveling, building side projects, or experimenting with new technologies.
-
-## Current Interests
-
-- Enterprise data platform architecture
-- Cloud-native platform modernization
-- Snowflake, Airflow, and AWS
-- AI-assisted software engineering
-- Developer productivity and engineering workflows
-- Data reliability and observability
-
-## Recent Sidequests
-[Sojourness](https://www.sojourness.com) - A travel booking platform for small group trips.
-
-[SetLift](https://apps.apple.com/us/app/setlift/id6760949297) - A small, free iOS native workout tracking app.
+Outside of work, I enjoy building side projects, exploring new technologies, hiking, camping, and spending time with my family.
