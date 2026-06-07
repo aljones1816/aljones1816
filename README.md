@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi, I'm Alan 👋
 
-I'm Alan. I write cool software 🧑‍💻 
+I'm a data platform engineer and technical lead based in Maine.
 
-I currently work on data platforms, writing Python and working with technologies like Airflow, DBT, and Snowflake to build data warehouses and ELT pipelines. I also write software for the web with Typescript. You'll find a range of personal projects in my repo ranging from data analysis to fun web apps. 
+Most of my work focuses on designing and modernizing enterprise data platforms, helping organizations build reliable, scalable systems that turn business needs into actionable data products. I spend a lot of my time working at the intersection of platform architecture, cloud infrastructure, data engineering, and technical strategy.
 
-In my free time I love spending time outdoors, hiking or camping with my wife, traveling to new countries, tinkering with tech at home, or bouldering. In a past life, I performed computational paleoclimate research, and spreading awareness of the reality and threat of climate change is deeply important to me. 
+Professionally, I've led modernization efforts involving AWS, Snowflake, Airflow, Python, and containerized runtime platforms, with a particular interest in reliability, operational simplicity, and developer productivity.
 
-I love open source and I am a persistent lifelong learner who finds the breakneck pace of innovation in tech to be thrilling. AI might take all of our jobs soon but I'm going to have fun making 🍝 until then.  
+I'm also an enthusiastic adopter of AI-assisted software engineering. I'm interested in how AI can improve architecture design, testing, code review, documentation, and delivery workflows when paired with strong engineering practices and clear operational guardrails.
+
+Before moving into software and data engineering, I completed graduate research in computational paleoclimate science. That background still influences how I think about data, systems, and complex problem solving today.
+
+Outside of work you'll usually find me hiking, camping, traveling, building side projects, or experimenting with new technologies.
